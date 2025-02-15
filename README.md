@@ -8,6 +8,7 @@
 ## CI/CD
 
 * add this to `settings.xml`
+* see also `settings-tempalte.xml`
 
 ```xml
 
