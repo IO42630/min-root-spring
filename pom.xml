@@ -13,6 +13,7 @@
 	<packaging>pom</packaging>
 	<name>min-root-spring</name>
 	<description>Parent POM for Spring projects.</description>
+	<url>https://github.com/IO42630/min-root-spring</url>
 	<licenses>
 		<license>
 			<name>MIT License</name>
